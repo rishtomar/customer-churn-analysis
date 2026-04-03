@@ -333,14 +333,3 @@ Data Cleaning & Feature Engineering (Python / Pandas)
                └──► Insights & Recommendations
 ```
 
----
-
-## 🙋‍♂️ Author
-
-Made with ❤️ by **[Your Name]**  
-📧 your-email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
-
----
-
-## ⭐ If you found this useful, drop a star!
